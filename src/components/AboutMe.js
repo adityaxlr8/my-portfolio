@@ -44,7 +44,7 @@ export default class AboutMe extends Component {
             width:'100%',
             margin:'auto',
             paddingTop:'1em',
-            textAlign:'center',
+            textAlign:"left",
             fontFamily: 'Oxygen',
             fontWeight: 'bold'
           }} 

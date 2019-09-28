@@ -38,19 +38,19 @@ export default class ContactMe extends Component {
           <div className="contact-list">
               <List>
               <ListItem>
-                <ListItemContent style={{fontSize:'30px',fontFamily:'Anton'}} icon="person">
+                <ListItemContent style={{fontSize:'20px',fontFamily:'Anton'}} icon="person">
                 <i className= "fa fa-phone-square" aria-hidden="true" />
                 (+91) 7979832758
                 </ListItemContent>
               </ListItem>
               <ListItem>
-              <ListItemContent style={{fontSize:'30px',fontFamily:'Anton'}} icon="person">
+              <ListItemContent style={{fontSize:'20px',fontFamily:'Anton'}} icon="person">
               <i className= "fa fa-envelope" aria-hidden="true" />
               adityaxlr8@gmail.com
               </ListItemContent>
             </ListItem>
             <ListItem>
-            <ListItemContent style={{fontSize:'30px',fontFamily:'Anton'}} icon="person">
+            <ListItemContent style={{fontSize:'20px',fontFamily:'Anton'}} icon="person">
             <i className= "fa fa-skype" aria-hidden="true" />
             live:adityaxlr8_1
             </ListItemContent>
