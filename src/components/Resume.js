@@ -4,6 +4,7 @@ import Education from './Education';
 import Experience from './Experience';
 import Skills from './Skills';
 import '../images/avatar.jpg'
+import '../documents/AdityaResume.pdf'
 
 class Resume extends Component {
       constructor(props) {
@@ -14,8 +15,9 @@ class Resume extends Component {
         this.resumeDownload = this.resumeDownload.bind(this)  
       }
       resumeDownload(){
-
-        console.log('object')
+        const url = 'https://drive.google.com/file/d/1NLiMeJa3yi4Rb4UVusH2w53zwtvEJoDA/view?usp=sharing';
+        window.open(url, '_blank');
+        console.log(url)
       }
   render() {  
     return(

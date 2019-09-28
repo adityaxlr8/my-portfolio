@@ -21,7 +21,6 @@ export default class Projects extends Component {
 gitExpensify(){
   const url = 'https://github.com/adityaxlr8/1expensify-app';
   window.open(url, '_blank');
-  console.log(url)
 }
 herokuExpensify(){
   const url = 'https://expensifyx-app.herokuapp.com/';
