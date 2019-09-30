@@ -15,7 +15,7 @@ class Resume extends Component {
         this.resumeDownload = this.resumeDownload.bind(this)  
       }
       resumeDownload(){
-        const url = 'https://drive.google.com/file/d/1NLiMeJa3yi4Rb4UVusH2w53zwtvEJoDA/view?usp=sharing';
+        const url = 'https://drive.google.com/open?id=1gxZ5eP2qcN3f7gP1MuKRLvM2WLy_T3Cl';
         window.open(url, '_blank');
         console.log(url)
       }
@@ -51,7 +51,7 @@ class Resume extends Component {
             <h5>Email</h5>
             <p>adityaxlr8@gmail.com</p>
             <h5>Web</h5>
-            <p>mywebsite.com</p>
+            <p>https://my-portfoliox.herokuapp.com</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
