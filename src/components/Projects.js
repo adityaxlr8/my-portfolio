@@ -64,8 +64,8 @@ toggleCategories(){
     Expesifyx-app
     </CardTitle>
     <CardText>
-    Expense app is complete app to track your all the expenses bared by your pocket or bared by you & manage your personal finance.
-     So that you can trace where your money goes as well as from where money comes in, you can limit & plan accordingly.
+    Expense app is a complete app to track your all the expenses bared by your pocket or bared by you & manage your personal finance.
+     So that you can trace where the money goes as well as from where money comes in, you can limit & plan accordingly.
     </CardText>
     <CardActions border>
         <Button onClick={this.gitExpensify} colored>Github</Button>
@@ -102,7 +102,7 @@ toggleCategories(){
     AceEditor-app
     </CardTitle>
     <CardText>
-    AceEditor is a feature-rich solution for securely collabrating with a partner to code great projects.Two-way sync really helps in making collabration more fun and easy.
+    AceEditor is a feature-rich solution for securely collaborating with a partner to code great projects.Two-way sync really helps in making collabration more fun and easy.
     </CardText>
     <CardActions border>
         <Button onClick={this.gitAce} colored>Github</Button>
@@ -120,7 +120,7 @@ toggleCategories(){
     WeatherOpenX
     </CardTitle>
     <CardText>
-    `The "WeatherOpenx" is a great way to find weather. 
+    `The "WeatherOpenx" is a great way to find the weather. 
     Equipped with location-based technology to detect a user's locality, the application can automatically display the latest official weather forecasts of city nearby`
     </CardText>
     <CardActions border>
